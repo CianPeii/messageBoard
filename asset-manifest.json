@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/messageBoard/static/css/main.31d6cfe0.css",
+    "main.js": "/messageBoard/static/js/main.c80dad24.js",
+    "index.html": "/messageBoard/index.html",
+    "main.c80dad24.js.map": "/messageBoard/static/js/main.c80dad24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.c80dad24.js"
+  ]
+}
